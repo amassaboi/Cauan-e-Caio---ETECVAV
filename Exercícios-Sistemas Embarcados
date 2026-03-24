@@ -1,0 +1,14 @@
+Exercício 1 — Pergunta conceitual
+Explique com suas palavras o que é Internet das Coisas (IoT) e cite um exemplo do cotidiano.
+
+A IoT (Internet das Coisas), consiste na rede de aparelhos físicos que conectam-se à internet através de softwares.
+O sistema da IoT, engloba sensores, automação de produtos físicos, veículos e demais funcionalidades proporcionadas fisicamente através desta conexão.
+Um exemplo cotidiano da IoT em nossas vidas é, por exemplo, o sistema de rádio de um carro. Onde há um software que conecta-o à rede de transmissão.
+Sendo assim, o rádio de um carro; que pode ser usado diariamente, também usufrui do sistema da Internet das Coisas (IoT).
+
+Exercício 2 — Pergunta de aplicação
+Descreva como um sistema embarcado poderia ser usado para automatizar a iluminação de uma casa.
+
+Com a utilização de softwares no sistema IoT, seria capaz de que a iluminação de uma casa fosse implementada a sensores de movimento e/ou aproximação.
+Sendo assim, resultando num sistema conectado à rede através do software que seja capaz de identificar a aproximação de pessoas. 
+Automatizando o sistema de iluminação da casa através da IoT (Internet das Coisas) comportada através dos Sistemas Embarcados.
