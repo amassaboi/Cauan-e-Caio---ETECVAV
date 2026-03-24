@@ -5,6 +5,7 @@ A IoT (Internet das Coisas), consiste na rede de aparelhos físicos que conectam
 O sistema da IoT, engloba sensores, automação de produtos físicos, veículos e demais funcionalidades proporcionadas fisicamente através desta conexão.
 Um exemplo cotidiano da IoT em nossas vidas é, por exemplo, o sistema de rádio de um carro. Onde há um software que conecta-o à rede de transmissão.
 Sendo assim, o rádio de um carro; que pode ser usado diariamente, também usufrui do sistema da Internet das Coisas (IoT).
+Ademais, outros exemplos comuns como: computadores, sensores, portões elétricos e demais aparelhos físicos com sistemas conectados por software, também estão presentes no cotidiano moderno.
 
 Exercício 2 — Pergunta de aplicação
 Descreva como um sistema embarcado poderia ser usado para automatizar a iluminação de uma casa.
@@ -12,3 +13,5 @@ Descreva como um sistema embarcado poderia ser usado para automatizar a ilumina�
 Com a utilização de softwares no sistema IoT, seria capaz de que a iluminação de uma casa fosse implementada a sensores de movimento e/ou aproximação.
 Sendo assim, resultando num sistema conectado à rede através do software que seja capaz de identificar a aproximação de pessoas. 
 Automatizando o sistema de iluminação da casa através da IoT (Internet das Coisas) comportada através dos Sistemas Embarcados.
+Também, se preciso, operações intercaladas entre os comandos de ligar e desligar poderiam apresentar demais avanços; conforme a programação realizada ao software.
+Fora isso, a automatização deixaria o sistema de iluminação mais prático e ágil, podendo ser operado à distância e facilitando o cotidiano aos seus responsáveis.
