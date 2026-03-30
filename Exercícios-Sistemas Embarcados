@@ -16,6 +16,14 @@ Automatizando o sistema de iluminação da casa através da IoT (Internet das Co
 Também, se preciso, operações intercaladas entre os comandos de ligar e desligar poderiam apresentar demais avanços; conforme a programação realizada ao software.
 Fora isso, a automatização deixaria o sistema de iluminação mais prático e ágil, podendo ser operado à distância e facilitando o cotidiano aos seus responsáveis.
 
+Exercício 3:
+
+No circuito com um LED, o microcontrolador envia sinais HIGH e LOW alternadamente para acender e apagar o LED, controlando o tempo entre os estados com o comando delay; aumentando o tempo de delay, o LED permanece aceso ou apagado por mais tempo, tornando o piscar mais lento, enquanto diminuindo o delay, o LED pisca rapidamente, criando efeitos visuais diferentes e permitindo observar claramente a influência do tempo na saída digital.  
+Testar diferentes tempos de delay ajuda a compreender como o microcontrolador controla a saída do LED de forma precisa e como pequenas alterações no software geram resultados imediatos no comportamento do circuito.  
+O experimento permite explorar conceitos de temporização e ritmo em sistemas embarcados, mostrando a relação entre programação, hardware e percepção visual.  
+Alterações no delay demonstram de forma prática como a programação influencia o comportamento físico dos atuadores, reforçando o aprendizado sobre entradas e saídas digitais.  
+Esse exercício evidencia a importância de ajustar parâmetros de temporização para controlar sistemas automatizados de forma eficiente, tornando a prática mais didática e intuitiva para quem aprende eletrônica.
+
 Exercício 9:
 
 sensores e atuadores em irrigação automatizada: O sensor de umidade do solo mede continuamente a quantidade de água presente na terra e envia os dados ao microcontrolador que processa as informações, compara com o nível ideal de umidade definido no programa e decide quando acionar a irrigação; ao detectar solo seco, o microcontrolador envia sinal ao atuador, como uma bomba ou válvula, que libera água automaticamente, garantindo que o solo permaneça na umidade adequada para o crescimento das plantas e evitando desperdício de água.  
