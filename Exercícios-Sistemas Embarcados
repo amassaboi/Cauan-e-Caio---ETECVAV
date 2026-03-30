@@ -15,3 +15,19 @@ Sendo assim, resultando num sistema conectado à rede através do software que s
 Automatizando o sistema de iluminação da casa através da IoT (Internet das Coisas) comportada através dos Sistemas Embarcados.
 Também, se preciso, operações intercaladas entre os comandos de ligar e desligar poderiam apresentar demais avanços; conforme a programação realizada ao software.
 Fora isso, a automatização deixaria o sistema de iluminação mais prático e ágil, podendo ser operado à distância e facilitando o cotidiano aos seus responsáveis.
+
+Exercício 9:
+
+sensores e atuadores em irrigação automatizada: O sensor de umidade do solo mede continuamente a quantidade de água presente na terra e envia os dados ao microcontrolador que processa as informações, compara com o nível ideal de umidade definido no programa e decide quando acionar a irrigação; ao detectar solo seco, o microcontrolador envia sinal ao atuador, como uma bomba ou válvula, que libera água automaticamente, garantindo que o solo permaneça na umidade adequada para o crescimento das plantas e evitando desperdício de água.  
+O sistema funciona de forma autônoma e em tempo real, mostrando como sensores fornecem informações precisas e atuadores realizam ações físicas conforme a lógica do microcontrolador, permitindo eficiência, economia e manutenção da saúde das plantas sem intervenção humana.  
+Sensores e atuadores trabalham em conjunto, onde o sensor coleta dados do ambiente e o atuador responde fisicamente, transformando a informação em ação prática, demonstrando a integração entre hardware e software em sistemas embarcados.  
+O microcontrolador atua como cérebro, interpretando os sinais do sensor e decidindo quando ligar ou desligar a irrigação, permitindo que o sistema seja totalmente automatizado e confiável.  
+Esse tipo de projeto evidencia como a automação aplicada à agricultura ou jardins melhora a produtividade, reduz desperdícios e facilita o manejo de plantas, tornando o aprendizado em tecnologia mais concreto e aplicável.  
+
+Exercício 10:
+
+Modificação de projeto: No projeto de irrigação automatizado, alterei o tempo de acionamento da bomba, aumentando a duração do fluxo de água; como resultado, o solo permaneceu mais úmido por mais tempo, enquanto reduzir o tempo faria o solo secar mais rápido, mostrando como ajustes simples de parâmetros influenciam diretamente o comportamento do sistema e a distribuição de água para as plantas.  
+Essa mudança permite calibrar o sistema para diferentes tipos de plantas ou condições do solo, demonstrando a importância de testar e ajustar valores como tempo de irrigação, sensibilidade do sensor ou limites programados.  
+Alterar parâmetros no código ou nas configurações do sensor afeta a resposta do atuador, evidenciando a relação entre programação, leitura de sensores e ação física, essencial para o desempenho correto do sistema.  
+Testes práticos com essas modificações mostram como pequenas mudanças podem otimizar recursos, melhorar a eficiência e evitar desperdício de água, além de garantir que o solo mantenha a umidade adequada para cada situação.  
+O exercício evidencia a importância de prototipagem e experimentação em sistemas automatizados, reforçando o aprendizado prático e o entendimento de como sensores, atuadores e lógica de programação trabalham juntos para resolver problemas reais.
