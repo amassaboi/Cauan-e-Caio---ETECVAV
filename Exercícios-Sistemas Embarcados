@@ -24,6 +24,36 @@ O experimento permite explorar conceitos de temporização e ritmo em sistemas e
 Alterações no delay demonstram de forma prática como a programação influencia o comportamento físico dos atuadores, reforçando o aprendizado sobre entradas e saídas digitais.  
 Esse exercício evidencia a importância de ajustar parâmetros de temporização para controlar sistemas automatizados de forma eficiente, tornando a prática mais didática e intuitiva para quem aprende eletrônica.
 
+4. Quais são as vantagens e desvantagens do uso de hardware open source em projetos de IoT?
+Vantagens: O Hardware open source geralmente tem um custo menor, porque não há custos de licença e há muitas alternativas compatíveis no mercado. Nele pode-se modificar tanto o 
+hardware quanto o software para atender necessidades específicas, e isso é otimo para prototipagem e projetos sob medida.
+Desvantagens: Hardware open source nem sempre vem com certificações, o que pode dificultar a comercialização. Por ser aberto, vulnerabilidades podem ser mais 
+visíveis — e nem sempre há atualizações rápidas ou suporte estruturado para corrigir falhas.
+
+5.O microcontrolador é o “cérebro” de um sistema embarcado, executando o programa que controla todo o funcionamento do dispositivo de forma automática e confiável.  
+Ele processa dados de sensores em tempo real e toma decisões para acionar atuadores como motores, LEDs e relés conforme a lógica programada.  
+Também gerencia a comunicação com outros dispositivos por protocolos como UART, SPI e I2C, garantindo integração eficiente.  
+Sensores fornecem informações, atuadores realizam ações e o microcontrolador coordena tudo, permitindo adaptação às condições externas.  
+Em resumo, ele combina processamento, controle e comunicação, formando a base de qualquer sistema embarcado moderno e autônomo.
+
+6. Projeto: Sistema de irrigação automática para pequenas plantas.  
+Problema: muitas plantas morrem por falta ou excesso de água, exigindo monitoramento constante.  
+Solução: usar um sensor de umidade do solo conectado a um microcontrolador, que lê o nível de água na terra em tempo real.  
+Quando a umidade estiver baixa, o microcontrolador aciona um atuador, como uma bomba ou válvula, para irrigar a planta automaticamente.  
+O sistema mantém a umidade ideal, economiza água e evita que as plantas sofram danos por rega incorreta, tornando o cuidado mais eficiente e prático.
+
+7. O circuito consiste em um LED conectado a um resistor e a um pino digital do microcontrolador, e um botão conectado a outro pino digital. 
+O programa lê continuamente o estado do botão: se o botão estiver pressionado (HIGH), o microcontrolador envia HIGH para o LED, acendendo-o.  
+Se o botão não estiver pressionado (LOW), o LED recebe LOW, permanecendo apagado.  
+O LED acende apenas enquanto o botão estiver pressionado, apagando imediatamente quando o botão é solto.  
+Esse funcionamento demonstra como entradas digitais podem controlar saídas digitais de forma simples e direta.
+
+8. O movimento maker incentiva o aprendizado ativo, permitindo que estudantes criem projetos práticos em vez de apenas estudar teoria.  
+Ele promove o desenvolvimento de habilidades em eletrônica, programação, robótica e design, integrando conhecimento de várias áreas.  
+Estimula a criatividade e a resolução de problemas, já que os participantes precisam projetar, testar e ajustar suas criações.  
+Ao trabalhar com protótipos físicos e ferramentas digitais, os aprendizes ganham experiência prática que facilita a compreensão de conceitos complexos.  
+Além disso, fortalece o trabalho colaborativo e a cultura de compartilhamento, elementos essenciais para inovação tecnológica.
+
 Exercício 9:
 
 sensores e atuadores em irrigação automatizada: O sensor de umidade do solo mede continuamente a quantidade de água presente na terra e envia os dados ao microcontrolador que processa as informações, compara com o nível ideal de umidade definido no programa e decide quando acionar a irrigação; ao detectar solo seco, o microcontrolador envia sinal ao atuador, como uma bomba ou válvula, que libera água automaticamente, garantindo que o solo permaneça na umidade adequada para o crescimento das plantas e evitando desperdício de água.  
